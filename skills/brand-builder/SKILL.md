@@ -1,6 +1,6 @@
 ---
 name: brand-builder
-description: Builds a complete brand skill for a business from its website and a short interview. Use when the user says "build my brand", "brand builder", "make my brand skill", "update my brand skill", or "do this" after installing this skill. Writes and installs a brand-[business-name] skill. Created by selfpublishing.com.
+description: Builds a complete brand skill for a business from its website and a short interview. Use when the user says "build my brand", "brand builder", "make my brand skill", "update my brand skill", or "do this" after installing this skill. Writes and installs a brand-[business-name] skill.
 author: Hunter Freeman
 version: "1.0"
 created: 2026-10-27
