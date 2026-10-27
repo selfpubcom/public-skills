@@ -12,7 +12,7 @@ Paste this into Claude, Codex, Grok Bot, or Grok Build:
 
 - About 30 minutes
 - Your website link
-- Optional: your LinkedIn or main social profile, and 1 or 2 pieces of writing you wrote yourself
+- Optional: your LinkedIn or main social profile, your book's Amazon page if you've written one, and 1 or 2 pieces of writing you wrote yourself
 - Optional: where your logo and headshot files live
 
 ## FAQ

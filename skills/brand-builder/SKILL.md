@@ -26,12 +26,14 @@ The finished result is a new, installed skill named `brand-[business-name]`, bui
 Ask for their website link. Then ask for any of these they have:
 - Their LinkedIn or main social profile
 - Their podcast, YouTube channel, or newsletter archive
+- If they've written a book: its Amazon page or other store page
 
 ## Step 2: Read everything
 
 Open each link and read:
 - **Website:** home page, About page, every offer or services page, the footer (for social handles and other properties), and 3 recent blog posts or newsletters.
 - **Social / podcast:** the profile bio and 2-3 recent posts or episode descriptions.
+- **Book page (if any):** the title, subtitle, description, author bio, and top reviews.
 
 While reading, collect:
 - Facts: what they do, who they serve, offers and prices, free resources, stats, credentials, success stories.
@@ -52,6 +54,7 @@ Give a short summary under these headings:
 - Your look (colors, fonts, image style)
 - Your proof (stats, stories, testimonials, reviews)
 - Your signature frameworks
+- Your book (if any)
 
 Mark anything you couldn't find as MISSING. Ask the owner to correct anything you got wrong.
 
@@ -71,6 +74,8 @@ Then confirm what you inferred in one question: "From your writing, it looks lik
 
 If colors or fonts are still MISSING, ask for them. If they don't have them, suggest a starter palette and font pairing that fits the business and its mood, and mark it "starter - change anytime."
 
+If you don't know yet, ask: "Have you written a book?" If they have, also ask: "What job does your book do for your business (credibility, leads, speaking, an entry offer), and what should a reader do after finishing it?" If they haven't, skip the Book section of the template entirely.
+
 Aim for 8-12 questions total.
 
 ## Step 5: Draft and confirm the key pieces
@@ -87,7 +92,7 @@ Write the full brand skill using the template at the end of this file. Fill ever
 
 Fill in the frontmatter: `author` is the founder's name, `version` is "1.0", and `created` and `updated` are today's date (YYYY-MM-DD).
 
-**Quality bar:** a finished brand skill is usually 250-450 lines. If yours is much shorter, you skipped detail. Go back and fill sections from what you read and heard before installing. Sections with nothing to fill keep a single [TBD] line rather than being deleted.
+**Quality bar:** a finished brand skill is usually 250-450 lines. If yours is much shorter, you skipped detail. Go back and fill sections from what you read and heard before installing. Sections with nothing to fill keep a single [TBD] line rather than being deleted. The one exception is the Book section: leave it out if they haven't written a book.
 
 Then install it as a skill named `brand-[business-name]` (lowercase, hyphens, no spaces), in the place the tool you're running in reads skills from:
 
@@ -113,7 +118,7 @@ Tell the owner, in 5 short lines:
 
 ## Updating an existing brand skill
 
-If the owner asks to update their brand, read their existing `brand-[business-name]` skill and ask what changed (a new offer, a price, a new result, a new channel, new files). Change only those sections, and reinstall it the same way. In the frontmatter, raise the version (1.0 to 1.1 for small changes, to 2.0 if you rebuild most of it) and set `updated` to today's date. Never change `created`.
+If the owner asks to update their brand, read their existing `brand-[business-name]` skill and ask what changed (a new offer, a price, a new result, a new book, a new channel, new files). Change only those sections, and reinstall it the same way. In the frontmatter, raise the version (1.0 to 1.1 for small changes, to 2.0 if you rebuild most of it) and set `updated` to today's date. Never change `created`.
 
 If the existing skill is missing sections from the current template, offer to fill them in.
 
@@ -327,6 +332,23 @@ The voice stays the same. The tone shifts by context:
 ### Calls to action
 (In priority order. The main call to action first.)
 1.
+
+---
+
+## Book
+
+(Include this section only if the founder has written a book. Repeat the block for each book, and note any series and reading order.)
+
+### [Book title]
+- Subtitle:
+- Category:
+- One-sentence promise:
+- Back-cover description:
+- Where to buy:
+- The job it does for the business: (credibility, leads, speaking, an entry offer)
+- What readers should do next: (the call to action inside and after the book)
+- Cover look: (colors, fonts, imagery, so marketing matches it)
+- Book-specific frameworks or terms: (if different from Signature frameworks)
 
 ---
 
