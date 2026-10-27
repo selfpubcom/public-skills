@@ -4,7 +4,7 @@ Your AI reads your website, asks you 8 to 12 questions, and builds a complete br
 
 ## Install
 
-Paste this into Claude, Codex, Grok Bot, or Grok Build:
+Paste this into Grok Bot (recommended), Claude, Codex, or Grok Build:
 
 > Install the brand-builder skill from https://github.com/selfpubcom/public-skills/tree/main/skills/brand-builder, then run it.
 
