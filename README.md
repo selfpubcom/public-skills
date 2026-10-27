@@ -9,6 +9,7 @@ Works in Grok Bot (recommended), Claude (desktop app and Cowork), Codex, Grok Bu
 | Skill | What it does |
 | --- | --- |
 | [Brand Builder](skills/brand-builder/) | Reads your website, asks a few questions, and builds a complete brand skill for your business. |
+| [Website Audit](skills/website-audit/) | Reviews your website the way customers, Google, and AI search see it, and gives you the top 10 fixes. |
 
 ## How to install a skill
 
@@ -36,6 +37,7 @@ Install with the skills CLI:
 
 ```bash
 npx skills add selfpubcom/public-skills --skill brand-builder
+npx skills add selfpubcom/public-skills --skill website-audit
 ```
 
 Or copy any folder under `skills/` into your tool's skills folder:
