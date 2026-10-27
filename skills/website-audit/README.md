@@ -1,6 +1,6 @@
 # Website Audit
 
-Your AI visits your website the way a customer, Google, and AI search tools see it. It scores 10 areas, from your first impression and calls to action to SEO and AI search readiness. Then it gives you the 10 fixes that matter most, with exactly what to change.
+Your AI visits your website the way a customer, Google, and AI search tools see it. It reviews your pages like an experienced marketer and copywriter would, catching the mistakes most owners miss, like a signup form stuck at the bottom of the page or a sales video buried halfway down. It scores 11 areas, from page flow and calls to action to SEO and AI search readiness, then gives you the 10 fixes that matter most, with exactly what to change.
 
 ## Install
 
@@ -16,16 +16,17 @@ Paste this into Grok Bot (recommended), Claude, Codex, or Grok Build:
 
 ## What it checks
 
-1. First impression (the 5-second test)
-2. Offers and calls to action
-3. Trust and proof
-4. Copy and messaging
-5. Lead capture and forms
-6. Navigation and structure
-7. On-page SEO
-8. AI search readiness
-9. Accessibility basics
-10. Speed and mobile
+1. Page flow and layout (where your video, forms, buttons, proof, and price sit)
+2. First impression (the 5-second test)
+3. Offers and calls to action
+4. Trust and proof
+5. Copy and messaging (checked against proven copywriting principles)
+6. Lead capture and forms
+7. Navigation and structure
+8. On-page SEO
+9. AI search readiness
+10. Accessibility basics
+11. Speed and mobile
 
 ## FAQ
 
