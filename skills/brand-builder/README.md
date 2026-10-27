@@ -1,6 +1,6 @@
 # Brand Builder
 
-Your AI reads your website, asks you 5 to 8 questions, and builds a brand skill for your business: your customer, offers, book, voice, look, and proof. After that, everything it writes for you sounds like you.
+Your AI reads your website, asks you 8 to 12 questions, and builds a complete brand skill for your business: your story, customer, voice, look, writing rules, offers, and proof. After that, everything it writes for you sounds like your business.
 
 ## Install
 
@@ -10,9 +10,10 @@ Paste this into Claude, Codex, Grok Bot, or Grok Build:
 
 ## What you'll need
 
-- About 20 minutes
+- About 30 minutes
 - Your website link
-- Optional: your Amazon book page and 1 or 2 pieces of writing you wrote yourself
+- Optional: your LinkedIn or main social profile, and 1 or 2 pieces of writing you wrote yourself
+- Optional: where your logo and headshot files live
 
 ## FAQ
 
@@ -23,7 +24,7 @@ Yes. Your AI asks more questions to fill in what your site doesn't cover, so it 
 No. Your AI asks for 1 or 2 pieces you wrote yourself, like a newsletter or a post, and learns your voice from those.
 
 **How do I update my brand later?**
-Tell your AI: "Update my brand skill," and say what changed, like a new offer, a new price, or a new book.
+Tell your AI: "Update my brand skill," and say what changed, like a new offer, a new price, or a new client result.
 
 **Can I use my brand skill in more than one AI?**
 Yes. The Brand Builder also saves a copy of your brand file. Open your other AI, give it that file, and ask it to install the file as a skill.

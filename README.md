@@ -1,4 +1,4 @@
-# AI skills for authors, by selfpublishing.com
+# AI skills by selfpublishing.com
 
 Skills you install once in your AI so it follows them every time. Each skill lives in its own folder under `skills/`, with its own README and FAQ.
 
@@ -8,7 +8,7 @@ Works in Claude (desktop app and Cowork), Codex, Grok Bot, Grok Build, and Claud
 
 | Skill | What it does |
 | --- | --- |
-| [Brand Builder](skills/brand-builder/) | Reads your website, asks a few questions, and builds a brand skill for your business. |
+| [Brand Builder](skills/brand-builder/) | Reads your website, asks a few questions, and builds a complete brand skill for your business. |
 
 ## How to install a skill
 
