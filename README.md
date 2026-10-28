@@ -11,6 +11,7 @@ Works in Grok Bot (recommended), Claude (desktop app and Cowork), Codex, Grok Bu
 | [Brand Builder](skills/brand-builder/) | Reads your website, asks a few questions, and builds a complete brand skill for your business. |
 | [Website Audit](skills/website-audit/) | Reviews your website the way customers, Google, and AI search see it, and gives you the top 10 fixes. |
 | [Speaking & Podcast Pitch Kit](skills/speaking-podcast-kit/) | Gets you booked on podcasts and stages, and turns every appearance into leads and clients. |
+| [SOP & Systems Builder](skills/sop-builder/) | Turns what's in your head into a company playbook of SOPs so you can hand work off. |
 
 ## How to install a skill
 
@@ -40,6 +41,7 @@ Install with the skills CLI:
 npx skills add selfpubcom/public-skills --skill brand-builder
 npx skills add selfpubcom/public-skills --skill website-audit
 npx skills add selfpubcom/public-skills --skill speaking-podcast-kit
+npx skills add selfpubcom/public-skills --skill sop-builder
 ```
 
 Or copy any folder under `skills/` into your tool's skills folder:
